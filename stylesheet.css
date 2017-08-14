@@ -1,0 +1,47 @@
+.nav {
+  display: inline-block;
+  margin: 0px 40px 0px 0px;
+}
+
+.nav-list {
+  text-align: right;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 75%;
+}
+
+#logo {
+  text-align: center;
+}
+
+body {
+  margin-left: 30px;
+}
+
+aside {
+  border: 2px solid black;
+  width: 25%;
+  padding: 10px;
+  margin-top: 30px;
+  display: inline-block;
+  height: 200px;
+}
+
+article {
+
+  background-color: blue;
+  border: 2px solid black;
+  width: 25%;
+  padding: 10px;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.products {
+  height: 200px;
+}
